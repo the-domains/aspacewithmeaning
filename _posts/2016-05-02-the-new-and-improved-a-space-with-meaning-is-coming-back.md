@@ -5,21 +5,23 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The new and improved "A Space With Meaning" is coming back! Stay tuned for future postings with exciting updates on what I am doing.'
-datePublished: '2016-05-02T04:54:50.076Z'
-dateModified: '2016-05-02T04:54:39.350Z'
+datePublished: '2016-05-02T05:01:25.351Z'
+dateModified: '2016-05-02T05:01:14.996Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-02-the-new-and-improved-a-space-with-meaning-is-coming-back.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
-starred: false
-sourcePath: _posts/2016-05-02-the-new-and-improved-a-space-with-meaning-is-coming-back.md
-published: true
+starred: true
 url: the-new-and-improved-a-space-with-meaning-is-coming-back/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e373d08-9be6-4984-b74c-6b09b4f7e62d.jpg)
+
 The new and improved "A Space With Meaning" is coming back! Stay tuned for future postings with exciting updates on what I am doing.
