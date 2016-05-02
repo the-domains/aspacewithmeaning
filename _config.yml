@@ -1,6 +1,6 @@
 name: aspacewithmeaning
 favicon: null
-layout_spectrum: 0.2702500051818788
+layout_spectrum: 0.00372
 typography_spectrum: 0.2495
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#150704'
     - '#685b3b'
     - '#a79496'
-  brandStrength: 0.75
+  brandStrength: 0.8125
   lightness: 0.20363601599819958
   saturation: 0.6686135756317526
   rhythmicContrast: 0.08744910592213273
